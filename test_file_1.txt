@@ -4,7 +4,6 @@ Test
 - Git only
 - Git and SVN
 - Git and CVS
-- A lot
 
 2. What is GitHub (GitLub, BitBucket)?
 - Program for working with Git
