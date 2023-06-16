@@ -19,7 +19,7 @@ How we will do that?
    - And the last things you should do are push your changes and create a pull request.
    
 ## The second task 
-The second task is to correct mistakes the in the text. There are obvious mistakes, kind of _Trrrrrrrracked_, _snapshooooooot_ etc. 
+The second task is to correct mistakes the in the text. There are obvious mistakes, kind of _Tracked_, _snapshot_ etc. 
 
 How we will be fixing them? 
 
